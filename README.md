@@ -1,6 +1,8 @@
 # geo
 ## Processador de tabelas com informações sobre países
 
+Protótipo: http://biodiversus.com.br/geo/
+
 Quando queremos cruzar informações sobre diferentes países, podemos precisar de fontes distintas. Por exemplo, dados econômicos podem vir do Banco Mundial, e dados sobre desmatamento podem vir de um artigo científico. Podemos encontrar dados culturais em um site, e dados sobre violência em outro.
 
 Ao tentar unir as diferentes tabelas, dois tipos de problemas surgem:
